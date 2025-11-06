@@ -35,3 +35,27 @@ $ ls
 
 $ exit
 👋 Exiting SatyaFileExplorer. Goodbye!
+
+
+## Day-3 Example demo
+
+$ touch note.txt
+File created: note.txt
+
+$ mkdir new_directories
+Dir created: new_directories
+
+$ cp note.txt notes.txt
+Copied
+
+$ mv notes.txt my.txt
+Moved
+
+$ rm my.txt
+Moved to Trash
+
+$ cd new_directories
+Changed to /home/satya/wiproproject/file-sharing-capstone/new_directories
+
+$ exit
+Bye!
