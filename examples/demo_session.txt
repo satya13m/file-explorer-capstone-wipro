@@ -1,0 +1,17 @@
+$ ./file_sharing
+/home/satya/wiproproject/file-sharing-capstone $ help
+Available commands: ls, pwd, cd, cat, touch, mkdir, rm, cp, mv, search, chmod, info, exit
+
+/home/satya/wiproproject/file-sharing-capstone $ mkdir testdir
+Directory created: testdir
+
+/home/satya/wiproproject/file-sharing-capstone $ cd testdir
+/home/satya/wiproproject/file-sharing-capstone/testdir $ touch file1.txt
+File created: file1.txt
+
+/home/satya/wiproproject/file-sharing-capstone/testdir $ ls
+f rwxrwxr-x         0 2025-11-06 10:00:00 file1.txt
+
+/home/satya/wiproproject/file-sharing-capstone/testdir $ cd ..
+/home/satya/wiproproject/file-sharing-capstone $ rm -r testdir
+Removed: testdir
