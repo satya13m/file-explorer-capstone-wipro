@@ -136,23 +136,25 @@ _Example config.txt:_
 
 file-explorer-capstone/
 ├── DAY1/
-│ └── file_explorer.cpp
+│ ├── file_explorer.cpp
 │ └── README1.md
 ├── DAY2/
-│ └── file_explorer.cpp
+│ ├── file_explorer.cpp
 │ └── README2.md
 ├── DAY3/
-│ └── file_explorer.cpp
-│ └── README3.md
+│ ├── file_explorer.cpp
+│ ├── README3.md
+│ ├── copy.txt
+│ └── final.txt
 ├── DAY4/
-│ └── file_explorer.cpp
+│ ├── file_explorer.cpp
 │ └── README4.md
 ├── DAY5/
-│ └── file_explorer.cpp
-│ └── README5.md
+│ ├── file_explorer.cpp
+│ ├── README5.md
 │ └── config.txt
 ├── src/
-│ └── file_explorer.cpp # Final version (Day 5)
+│ └── file_explorer.cpp # Final merged version
 ├── screenshots/
 │ ├── DAY1.png
 │ ├── DAY2.png
@@ -161,8 +163,8 @@ file-explorer-capstone/
 │ └── DAY5.png
 ├── Makefile
 ├── README.md
+├── config.txt
 └── .gitignore
-└── config.txt
 
 ---
 
@@ -188,6 +190,8 @@ make clean
 ## 🧪 Example Session
 
 bash
+
+```
 pwd
 ls
 mkdir test
@@ -197,6 +201,7 @@ info day3.txt
 cp day3.txt copy.txt
 mv backup.txt
 exit
+```
 
 ---
 
