@@ -134,6 +134,7 @@ _Example config.txt:_
 
 ## 🧩 Project Structure
 
+```
 file-explorer-capstone/
 ├── DAY1/
 │ ├── file_explorer.cpp
@@ -165,6 +166,7 @@ file-explorer-capstone/
 ├── README.md
 ├── config.txt
 └── .gitignore
+```
 
 ---
 
