@@ -1,4 +1,4 @@
-# Day 4 – Day 4: Implement file search functionality within the file explorer
+# Day 4 : Implement file search functionality within the file explorer
 
 ### Description
 Added two new commands:
