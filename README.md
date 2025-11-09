@@ -1,4 +1,4 @@
-# 🗂 File Explorer – Linux Capstone Project (C++)
+#  File Explorer – Linux Capstone Project (C++)
 
 ###  Overview
 
@@ -207,7 +207,7 @@ exit
 
 ---
 
-## 👨 Author
+##  Author
 
 _Satyajeet Mohanty_  
 🌐 [GitHub Profile](https://github.com/satya13m)
